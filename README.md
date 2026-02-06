@@ -10,5 +10,5 @@ Syllabus and teaching materials for Scope &amp; Methods in Political Science cou
 <h2 align="center">Welcome</h2>
 
 <p align="center">
-This is the course repository for Scope & Methods in Political Science materials. Here you will find past syllabi, assignments, handouts and other materials. These materials can be used and shared under Creative Commons license <a href="https://creativecommons.org/">CC BY-NC-SA</a>
+This is the course repository for Scope & Methods in Political Science materials. Here you will find past syllabi, assignments, handouts and other materials. These materials can be used and shared under Creative Commons license <a href="https://creativecommons.org/">CC BY-NC-SA</a>.
 </p>
